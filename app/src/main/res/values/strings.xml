@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PDFLoadWebView</string>
+    <string name="open_in_webview">Open in Webview</string>
+    <string name="opening_pdf">opening_pdf</string>
+
+    <string name="open_from_assets">open_from_assets</string>
+    <string name="open_from_storage">open_from_storage</string>
+    <string name="open_from_internet">open_from_internet</string>
+
+
+</resources>
