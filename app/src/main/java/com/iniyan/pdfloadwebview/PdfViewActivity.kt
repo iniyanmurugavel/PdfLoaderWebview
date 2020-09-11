@@ -1,8 +1,6 @@
 package com.iniyan.pdfloadwebview
 
-import android.annotation.SuppressLint
 import android.app.Activity
-import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
@@ -16,9 +14,6 @@ import com.downloader.PRDownloader
 import com.iniyan.pdfloadwebview.FileUtils.PDF_SELECTION_CODE
 import kotlinx.android.synthetic.main.activity_pdf_view.*
 import java.io.File
-import java.io.IOException
-import java.io.InputStream
-import java.io.OutputStream
 
 
 class PdfViewActivity : AppCompatActivity() {
